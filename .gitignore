@@ -1,0 +1,17 @@
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
